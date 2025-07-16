@@ -1,9 +1,9 @@
 {
   "name": "minichat-cat-server",
   "version": "1.0.0",
-  "main": "twitch-to-websocket.js",
+  "main": "twitch-to-websocket.cjs",
   "type": "module",
   "scripts": {
-    "start": "node twitch-to-websocket.js"
+    "start": "node twitch-to-websocket.cjs"
   }
 }
